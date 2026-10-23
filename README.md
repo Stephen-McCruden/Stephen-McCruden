@@ -1,8 +1,8 @@
 # Stephen McCruden
 
-Field Service Technician II | Infrastructure Automation | Kubernetes & GitOps
+Field Engineer II | Infrastructure Automation | Kubernetes & GitOps
 
-I am a Field Service Technician II at Motorola Solutions in the Washington,
+I am a Field Engineer II at Motorola Solutions in the Washington,
 D.C. area. I support mission-critical public-safety communications systems in
 an environment where reliability, disciplined change control, careful
 troubleshooting, and clear technical documentation matter.
